@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Adulting</string>
+
+    <!-- Home -->
+    <string name="home_title">Adulting App</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks manager</string>
+    <string name="tasks_subtitle">Here you have a preview of your pending tasks</string>
+    <string name="hello_blank_fragment">Hello blank fragment\n</string>
+    <string name="new_task">Create new task</string>
+    <string name="new_task_title">Create your new task</string>
+    <string name="title">Title</string>
+    <string name="detail">Task detail</string>
+    <string name="create_task">Create new task</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
+    <string name="business">Business</string>
+
+
 </resources>

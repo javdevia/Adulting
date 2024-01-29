@@ -2,4 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="celesteClaro">#ADD8E6</color>
+    <color name="celesteMedio">#87CEFA</color>
+    <color name="celestePastel">#B0E0E6</color>
+    <color name="celesteVerdoso">#90EE90</color>
+    <color name="celesteGrisaceo">#C0DCDA</color>
+
+    <color name="tertiaryColor">#5DADE2</color>
+    <color name="tertiaryTextColor">#FFFFFF</color>
+    <color name="secondaryColor">#7FB3D5</color>
+    <color name="secondaryTextColor">#333333</color>
+    <color name="primaryColor">#AED6F1</color>
+    <color name="primaryTextColor">#555555</color>
+
+    <!-- Color para Resaltar -->
+    <color name="highlightColor">#FFC300</color>
+    <color name="highlightText">#333333</color>
+
+    <!-- Colores más claros para fondos o elementos primarios -->
+    <color name="fondoClaro1">#E6F7FF</color>
+    <color name="fondoClaro2">#D6EAF8</color>
+    <color name="fondoClaro3">#EBF5FB</color>
+
 </resources>
